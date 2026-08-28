@@ -1,0 +1,21 @@
+category,metric,value,unit_or_note
+Workforce,Total employees,105,employees
+Adoption,Employees who used ChatGPT,76,employees
+Adoption,Employees who used Copilot,72,employees
+Cross-tool adoption,Employees who used both tools,48,employees
+Cross-tool adoption,Share using both tools,46,percent approximately
+Usage preference,Users with higher Copilot use after active-day adjustment,58,employees
+Usage preference,Users with higher ChatGPT use after active-day adjustment,28,employees
+Role comparison,Producer Copilot subscription coverage,81.0,percent
+Role comparison,Producer average Copilot prompts,21.6,prompts per person
+Role comparison,Other-role average Copilot prompts,71.0,prompts per person
+Role comparison,Producer high-frequency or super-active users,19.0,percent
+Role comparison,Producer dormant subscription rate,10.5,percent
+Worker comparison,Contingent-worker average Copilot prompts,70.2,prompts per person
+Worker comparison,Full-time average Copilot prompts,64.3,prompts per person
+Management,Manager subscription coverage,75.7,percent
+Management,Non-manager subscription coverage,69.4,percent
+Management,Manager average prompts,61.1,prompts
+Management,Non-manager average prompts,63.9,prompts
+Subscription efficiency,Estimated subscribed accounts with zero usage,20-30,percent approximately
+
